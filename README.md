@@ -19,7 +19,7 @@ To get started with UnitTestGenBot, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/UnitTestGenBot.git
-```
+   ```
 2. Install the necessary Python libraries and dependencies.
 3. Configure your OpenAI API key
 4. Provide TypeScript files in the folder in which the script is going to run.
